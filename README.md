@@ -39,7 +39,7 @@ Siga os passos abaixo para configurar e executar o projeto localmente.
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/rodvpx/Api-RestFull-SpringBoot3
+   git clone https://github.com/rodvpx/Api-RestFull-SpringBoot3.git
 
 2. **Configure o banco de dados**:
    - Crie um banco de dados no PostgreSQL.
