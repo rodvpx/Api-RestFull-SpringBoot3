@@ -129,15 +129,3 @@ A API oferece os seguintes endpoints:
 Este projeto foi desenvolvido com base no curso **Spring Boot 3 | Curso completo 2023** do canal [Michelli Brito](https://www.youtube.com/watch?v=wlYvA2b1BWI&ab_channel=MichelliBrito). Recomendo assistir ao curso para aprofundar seus conhecimentos em Spring Boot.
 
 ---
-
-## 🤝 Contribuição
-
-Contribuições são bem-vindas! Siga os passos abaixo:
-
-1. Faça um fork do projeto.
-2. Crie uma branch para sua feature (`git checkout -b feature/nova-feature`).
-3. Commit suas alterações (`git commit -m 'Adicionando nova feature'`).
-4. Push para a branch (`git push origin feature/nova-feature`).
-5. Abra um Pull Request.
-
----
